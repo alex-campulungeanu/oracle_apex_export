@@ -1,0 +1,6 @@
+/.vscode
+/apex
+/exported_apps/*
+!/exported_apps/.gitkeep
+.env
+/venv
